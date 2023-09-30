@@ -1,0 +1,36 @@
+{
+  "name": "project-server-logic-legends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongodb": "^5.6.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.2.3",
+    "nodeman": "^1.1.2",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2023-Summer-ITE-5425-0NB/project-server-logic-legends.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2023-Summer-ITE-5425-0NB/project-server-logic-legends/issues"
+  },
+  "homepage": "https://github.com/2023-Summer-ITE-5425-0NB/project-server-logic-legends#readme",
+  "description": ""
+}

@@ -1,0 +1,35 @@
+User
+    userId 
+    userName
+    firstName
+    lastName 
+    email 
+    profilePicture
+    phoneNumber 
+
+Task 
+    taskId 
+    userId 
+    title 
+    description 
+    priority [low, medium, high] 
+    status [todo, inProgress, completed] 
+    startDate 
+    endDate 
+
+SubTask 
+    subTaskId 
+    taskid
+    title
+    description
+    priority [low, medium, high] 
+    status [todo, inProgress, completed] 
+    startDate 
+    endDate 
+
+contactUs
+    id 
+    firstName
+    lastName
+    email 
+    message
